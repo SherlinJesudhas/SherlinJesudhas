@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/20368/screenshots/4012238/data_scene.gif)]
+![MasterHead](https://cdn.dribbble.com/users/20368/screenshots/4012238/data_scene.gif)
 <h1 align="center">Hi 👋, I'm Sherlin Jesudhas</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif">
